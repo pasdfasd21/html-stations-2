@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../.techtrain"
+		},
+		{
+			"path": "../.techtrain/manifests"
+		}
+	],
+	"settings": {}
+}
